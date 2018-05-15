@@ -18,6 +18,7 @@ From Clark's list:
 - [ ] [A Whole New World - Gary Bernhardt](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [ ] [Principles of Technology Leadership - Bryan Cantrill](https://www.youtube.com/watch?v=9QMGAtxUlAc)
 - [ ] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+
 More from Gamut folks:
 - [x] [Nothing is something - Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE)
 - [x] [Writing Software - David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M)
