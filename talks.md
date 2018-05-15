@@ -1,5 +1,5 @@
 # Talks
-
+From Clark's list:
 - [x] [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - [ ] [Inventing on Principle - Bret Victor](https://www.youtube.com/watch?v=PUv66718DII)
 - [ ] [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
@@ -18,6 +18,10 @@
 - [ ] [A Whole New World - Gary Bernhardt](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [ ] [Principles of Technology Leadership - Bryan Cantrill](https://www.youtube.com/watch?v=9QMGAtxUlAc)
 - [ ] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
-
+More from Gamut folks:
 - [x] [Nothing is something - Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE)
 - [x] [Writing Software - David Heinemeier Hansson](https://www.youtube.com/watch?v=9LfmrkyP81M)
+- [ ] [On Writing Software well - DHH](https://m.signalvnoise.com/on-writing-software-well-aee3780767a6)
+- [ ] [Javascript is too convenient - Sam Jones](http://blog.testdouble.com/posts/2018-05-02-javascript-is-too-convenient)
+- [ ] [RubyConf 2016 - Opening Keynote by Yukihiro 'Matz' Matsumoto](https://www.youtube.com/watch?v=1l3U1X3z0CE)
+- [ ] [React Router - Michael Jackson](https://www.youtube.com/watch?v=GYvoapBSM3c&amp=&feature=youtu.be&amp=&a=)
