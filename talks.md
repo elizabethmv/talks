@@ -28,4 +28,4 @@ More from Gamut folks:
 - [ ] [React Router - Michael Jackson](https://www.youtube.com/watch?v=GYvoapBSM3c&amp=&feature=youtu.be&amp=&a=)
 
 Cerna:
-- [ ] [Jim Wirich - Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
+- [ ] [Jim Weirich - Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
