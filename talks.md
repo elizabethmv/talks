@@ -26,6 +26,7 @@ More from Gamut folks:
 - [ ] [Javascript is too convenient - Sam Jones](http://blog.testdouble.com/posts/2018-05-02-javascript-is-too-convenient)
 - [ ] [RubyConf 2016 - Opening Keynote by Yukihiro 'Matz' Matsumoto](https://www.youtube.com/watch?v=1l3U1X3z0CE)
 - [ ] [React Router - Michael Jackson](https://www.youtube.com/watch?v=GYvoapBSM3c&amp=&feature=youtu.be&amp=&a=)
+- [ ] [GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 Cerna:
 - [ ] [Jim Weirich - Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
