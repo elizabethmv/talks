@@ -1,4 +1,7 @@
 # Talks
+
+- [ ] [Elixir Conf 2014 - Keynote: Think Different - Dave Thomas](https://www.youtube.com/watch?v=5hDVftaPQwY)
+
 From Clark's list:
 - [x] [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - [ ] [Inventing on Principle - Bret Victor](https://www.youtube.com/watch?v=PUv66718DII)
