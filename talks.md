@@ -33,3 +33,6 @@ More from Gamut folks:
 
 Cerna:
 - [ ] [Jim Weirich - Connascence Examined](https://www.youtube.com/watch?v=22vYwcfQnk8)
+
+CarsFolks:
+- [ ] https://www.youtube.com/watch?v=5MBGDM8xSQg Here's a very solid talk on DDD and how it relates to Phoenix Contexts. This is one particular area I'm trying to grok, and I found it very helpful. - Angel Jose
